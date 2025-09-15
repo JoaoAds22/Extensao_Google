@@ -1,0 +1,1 @@
+# Bootcamp Helper — Extensão Chrome (Manifest V3)\n\nExtensão exemplo entregue como scaffold para o Bootcamp II.\n
